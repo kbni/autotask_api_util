@@ -1,0 +1,9 @@
+AllCops:
+  Include:
+  - 'examples.rb'
+  - 'lib/*.rb'
+  Exclude:
+  - 'autotask_api/**/*'
+  
+Style/TrailingWhitespace:
+  Enabled: false

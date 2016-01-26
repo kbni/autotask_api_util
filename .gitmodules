@@ -1,0 +1,3 @@
+[submodule "autotask_api"]
+	path = autotask_api
+	url = https://github.com/scoop/autotask_api.git
